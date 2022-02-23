@@ -1,0 +1,34 @@
+.write{
+    padding-top: 50px;
+}
+
+.writeFormGroup{
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.diaryDate{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+}
+
+.diaryDate:focus{
+    outline: none;
+}
+
+.diaryText{
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+}
+
+.diaryText:focus{
+    outline: none;
+}
+
+.writeSubmit{
+    display: flex;
+}

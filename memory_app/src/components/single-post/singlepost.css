@@ -1,0 +1,25 @@
+.card_post {
+    transition: box-shadow .3s;
+    width: 400px;
+    margin: 50px;
+    border-radius:10px;
+    border: 1px solid #ccc;
+    background: white;
+  }
+.card_post:hover {
+    box-shadow: 0 0 15px rgba(10, 134, 236, 0.2); 
+}
+
+.post_title{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.post_content{
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 5px;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
